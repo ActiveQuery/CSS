@@ -47,7 +47,7 @@
 
 **ActiveQuery CSS v25.6.0** is released under the [Open Software License v3.0 (OSL-3.0)](https://opensource.org/licenses/OSL-3.0).
 
-Please refer to [`license`](./license.txt) for the full license terms.
+Please refer to [`license`](./LICENSE.txt) for the full license terms.
 
 ---
 
