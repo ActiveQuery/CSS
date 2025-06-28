@@ -47,16 +47,22 @@
 
 **ActiveQuery CSS v25.6.0** is released under the [Open Software License v3.0 (OSL-3.0)](https://opensource.org/licenses/OSL-3.0).
 
-Please refer to [`license.txt`](./license.txt) for the full license terms.
+Please refer to [`license`](./license.txt) for the full license terms.
 
 ---
 
 ## Third-Party Components
 
-This project includes and integrates code from the following external libraries. These libraries come with their own licenses, and all original license terms remain applicable. License notices are provided in the [`license.txt`](./license.txt) file.
+This project includes and integrates code from the following external libraries. These libraries come with their own licenses, and all original license terms remain applicable. License notices are provided in the [`license`](./license.txt) file.
 
 - **[w3CSS](https://github.com/JaniRefsnes/w3css)**  
 - **[Normalize.css](https://github.com/necolas/normalize.css)**
+
+---
+
+## ActiveQuery Compliance Framework
+
+All ActiveQuery namespaces, projects, programs, repositories, and related spaces are governed by the [ActiveQuery Compliance Framework](https://github.com/ActiveQuery/Governance/).
 
 ---
 
