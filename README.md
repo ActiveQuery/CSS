@@ -19,7 +19,7 @@
 
 ---
 
-## Key Features
+## Active Features
 
 - **Mobile-first** and **responsive** out of the box  
 -  **Fast** and **lightweight**  
@@ -66,7 +66,7 @@ If you'd like to contribute to ActiveQuery CSS, feel free to fork the repository
 
 ---
 
-## Last Updated
+## Actively Updated
 
 **June 28, 2025**
 
