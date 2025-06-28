@@ -37,7 +37,7 @@
 - `ActiveQ`
 - `AQ`
 
-...whether uppercased, lowercased, or capitalized. This applies across all project files, namespaces, repositories, and documentation.
+...whether uppercased, lowercased, or capitalized. This applies across all namespaces, project files, repositories, and documentation.
 
 ---
 
