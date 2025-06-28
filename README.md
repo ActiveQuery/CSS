@@ -1,4 +1,5 @@
-<p align="center">![ActiveQuery.CSS](aqcss.png)</p>
+![ActiveQuery.CSS](aqcss.png)
+
 # ActiveQuery CSS v25.6.0
 "ActiveQuery" is synonymous with, and wherever referenced as, "Active Query" or "ActiveQ" or 
 "AQ", whether uppercased, lowercased or capitalised. This applies to all parts of ActiveQuery 
