@@ -10,8 +10,28 @@
 [![](https://img.shields.io/badge/ActiveQuery%20Open%20Source%20Software%20(AQOSS)-76448A)](#)<br>
 
 
-[![](https://img.shields.io/badge/Coverage-100%25-brightgreen)](#)
-[![](https://img.shields.io/badge/Open%20Source%20License-OSL%203.0-brightgreen)](#)<br>
+
+
+
+
+[![](https://img.shields.io/badge/CSS%203-1F618D?logo=CSS&logoColor=white)](#)
+[![](https://img.shields.io/badge/HTML%205-1F618D?logo=html5&logoColor=white)](#)
+[![](https://img.shields.io/badge/Android-1F618D?logo=android&logoColor=white)](#)
+[![](https://img.shields.io/badge/IOS-1F618D?logo=apple&logoColor=white)](#)
+[![](https://img.shields.io/badge/Window-1F618D?logo=windows&logoColor=white)](#)
+[![](https://img.shields.io/badge/Node.Js-1F618D?logo=nodedotjs&logoColor=white)](#)
+[![](https://img.shields.io/badge/Software%20As%20A%20Service-1F618D?logo=sonarcloud&logoColor=white)](#)
+
+
+
+[![](https://gpvc.arturio.dev/ActiveQuery)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20Repo-ActivQuery.CSS-brightgreen)](#)
+[![](https://img.shields.io/badge/ActiveQuery%20CSS-v25.6.0-brightgreen)](#)
+[![](https://img.shields.io/badge/ActivQuery%20Coverage-100%25-brightgreen)](#)
+[![](https://img.shields.io/badge/ActivQuery%20Dependencies-None%20-brightgreen)](#)
+[![](https://img.shields.io/badge/ActivQuery%20Open%20Source%20License-OSL%203.0-brightgreen)](#)
+[![](https://img.shields.io/badge/ActivQuery%20Governance-v21.0-brightgreen)](#)
+[![](https://img.shields.io/badge/ActivQuery%20Build-Passed-brightgreen)](#)
 
 # ActiveQuery CSS v25.6.0
 
