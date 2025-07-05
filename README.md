@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/HTML%205-1F618D?logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/Android-1F618D?logo=android&logoColor=white)](#)
 [![](https://img.shields.io/badge/IOS-1F618D?logo=apple&logoColor=white)](#)
-[![](https://img.shields.io/badge/Window-1F618D?logo=windows&logoColor=white)](#)
+[![](https://img.shields.io/badge/window-1F618D?logo=windows&logoColor=white)](#)
 [![](https://img.shields.io/badge/Node.Js-1F618D?logo=nodedotjs&logoColor=white)](#)
 [![](https://img.shields.io/badge/Software%20As%20A%20Service-1F618D?logo=sonarcloud&logoColor=white)](#)
 
